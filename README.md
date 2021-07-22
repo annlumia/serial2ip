@@ -27,7 +27,7 @@ $ serial2tcp_x64 -serial-port COM3 -baudrate 19200 -parity E -stop-bits 1 -tcp-p
 
 ## Downloads
 
-For downloading compiled application, please visit [release](https://github.com/annlumia/hawa-cems/releases) page.
+For downloading compiled application, please visit [release](https://github.com/annlumia/serial2ip/releases) page.
 
 ## TODO
 
