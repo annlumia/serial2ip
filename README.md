@@ -9,7 +9,7 @@ Serial to IP gateway
 
 ## Connection Ilustration
 
-![Ngantuk yo turu!](https://github.com/annlumia/serial2ip/blob/master/ilustration.PNG 'Ngantuk yo turu')
+![Ngantuk yo turu!](./ilustration.PNG 'Ngantuk yo turu')
 
 ## How to Use?
 
