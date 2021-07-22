@@ -9,7 +9,7 @@ Serial to IP gateway
 
 ## Connection Ilustration
 
-![The San Juan Mountains are beautiful!](/ilustration.png 'San Juan Mountains')
+![Ngantuk yo turu!](./ilustration.png 'Ngantuk yo turu')
 
 ## How to Use?
 
